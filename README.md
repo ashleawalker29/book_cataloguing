@@ -1,20 +1,16 @@
 # Book Cataloguing
 
+---
+
 ## Marvel Python API
+### Useful Links
+[Marvel Python Package](https://pypi.org/project/marvel/)
 
-Marvel Python Package
---------------
-https://pypi.org/project/marvel/
+[Official Documentation](https://developer.marvel.com/docs)
 
-Official Documentation
-----------------------
-https://developer.marvel.com/docs
+[Unofficial Documentation](https://speca.io/speca/marvel-public-api-v1#list-comics)
 
-Unofficial Documentation
-------------------------
-https://speca.io/speca/marvel-public-api-v1#list-comics
-
-### Example Response
+### Example API Response
 ``` json
 {
 "id": 96850,
